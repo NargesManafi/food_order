@@ -1,0 +1,19 @@
+.menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 700px;
+  }
+  .card {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: center;
+    
+  }
+  .menu h2 {
+    font-size: 3rem;
+    margin: 40px;
+  }
+  
